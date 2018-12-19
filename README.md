@@ -1,3 +1,3 @@
 # GitTestProject
 Test Project for Git
--- thi is the comment
+-- this is the comment
